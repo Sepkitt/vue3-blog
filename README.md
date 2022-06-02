@@ -1,8 +1,19 @@
-# vue3-studies
-Vue3 project studies
+# vue3-blog
 
-## vue3-simple-counter
-https://vue3-simple-counter.surge.sh/
+## Project setup
+```
+yarn install
+```
 
-## vue3-todos
-https://vue3-todos.surge.sh/
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
